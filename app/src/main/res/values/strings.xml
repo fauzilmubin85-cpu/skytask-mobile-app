@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SkyTask</string>
+    <string name="title_activity_main">SkyTask</string>
+    <string name="package_name">com.skytask.app</string>
+    <string name="custom_url_scheme">com.skytask.app</string>
+</resources>
